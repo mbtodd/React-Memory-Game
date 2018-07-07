@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Galactus",
+		"image": "./images/galactus2.jpg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"name": "Dark Phoenix",
+		"image": "./images/darkphoenix.jpg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"name": "Nova",
+		"image": "./images/nova.jpg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"name": "Silver Surfer",
+		"image": "./images/ss.jpg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"name": "The Vision",
+		"image": "./images/vision.jpg",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"name": "Spiderman",
+		"image": "./images/spidey.jpg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"name": "Captain Marvel",
+		"image": "./images/capmarvel.jpg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"name": "Black Panther",
+		"image": "./images/bp.jpg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"name": "Captian America",
+		"image": "./images/cap.jpg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"name": "Black Bolt",
+		"image": "./images/blackbolt.jpg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"name": "The Hulk",
+		"image": "./images/hulk.jpg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"name": "Juggernaut",
+		"image": "./images/juggernaunt.jpg",
+		"clicked": false
+	}
+]
